@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning CS 5600: COMPUTER SYSTEM
+- Page swapping policies...
+- Free space management...
 <!--
 **chenziy8/chenziy8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
